@@ -24,13 +24,13 @@ Este proyecto tiene como objetivo facilitar la organización y gestión de event
 
   **📦 Instalación**
 
-# Clonar el repositorio
+- Clonar el repositorio
 git clone https://github.com/tu-usuario/Feria-Eventos.git
 
-# Acceder al directorio
+- Acceder al directorio
 cd Feria-Eventos
 
-# Instalar dependencias (ajustar según tecnología)
+- Instalar dependencias (ajustar según tecnología)
 npm install
 
 **🤝 Contribuciones**
