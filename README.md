@@ -1,9 +1,9 @@
 # 🎉 Feria-Eventos
-**Gestor de Eventos para la época de feria**
+## Gestor de Eventos para la época de feria
 
 Este proyecto tiene como objetivo facilitar la organización y gestión de eventos durante las festividades de feria.
 
-**🚀 Funcionalidades principales**
+## 🚀 Funcionalidades principales
 - Crear y administrar eventos
 
 - Visualizar cronograma de actividades
@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo facilitar la organización y gestión de event
 
 - Notificaciones o recordatorios (opcional)
 
-**🛠 Tecnologías utilizadas**
+## 🛠 Tecnologías utilizadas
 
 - Lenguaje/Framework principal:Laravel (php)
 
@@ -22,18 +22,18 @@ Este proyecto tiene como objetivo facilitar la organización y gestión de event
 
 - Realizado con IDE Google: FireBase
 
-  **📦 Instalación**
+  ## 📦 Instalación
 
-- Clonar el repositorio
-git clone https://github.com/tu-usuario/Feria-Eventos.git
+ - Clonar el repositorio
+ git clone https://github.com/tu-usuario/Feria-Eventos.git
+ 
+ - Acceder al directorio
+ cd Feria-Eventos
+ 
+ - Instalar dependencias (ajustar según tecnología)
+ npm install
 
-- Acceder al directorio
-cd Feria-Eventos
-
-- Instalar dependencias (ajustar según tecnología)
-npm install
-
-**🤝 Contribuciones**
+## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres colaborar, sigue estos pasos:
 
 - Haz un fork del repositorio
@@ -46,8 +46,15 @@ npm install
 
 - Abre un Pull Request
 
-**📄 Licencia**
+## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 (MIT: Permite usar, modificar y distribuir el código, incluso comercialmente, pero se debera dar crédito.)
+
+## 👥 Integrantes del proyecto
+Marisa Ortega Lunea
+
+Antonio Rodríguez Cortés
+
+Alejandro Jonás López Serrano
